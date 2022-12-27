@@ -16,5 +16,5 @@
 [![](https://visitcount.itsvg.in/api?id=AbinBVinod&icon=0&color=6)](https://visitcount.itsvg.in)
 
 ---
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
