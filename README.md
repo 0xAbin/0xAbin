@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on BlcokChain / Web 3 <br> 💬 Ask me about nothing jk<br>
+🔭 I’m currently working on BlockChain / Web 3 <br> 💬 Ask me about nothing jk<br>
 
 
 ## 🌐 Socials:
