@@ -17,3 +17,4 @@
 
 ---
 ![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+![mishmanners snake gif](https://github.com/mishmanners/MishManners/blob/output/github-contribution-grid-snake.svg)
