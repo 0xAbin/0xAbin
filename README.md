@@ -15,7 +15,7 @@
 
 
 ---
-[!(https://visitcount.itsvg.in/api?id=AbinBVinod&icon=0&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=AbinBVinod&label=Profile%20Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 ---
 
