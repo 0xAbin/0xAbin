@@ -12,7 +12,7 @@
 
 [![](https://github-readme-activity-graph.cyclic.app/graph?username=AbinBVinod&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AbinBVinod&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbinBVinod&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbinBVinod&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)-->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AbinBVinod&label=Profile%20Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
