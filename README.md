@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on BlockChain Core devlp (ZKp)/ Web 3 <br> 💬 Ask me about anything<br>
+🔭 I’m currently working on BlockChain Core devlp POCx(ZKp)/ Web 3 <br> 💬 Ask me about anything<br>
 
 
 ## 🌐 Socials:
