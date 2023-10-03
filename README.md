@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m  working on POCx(ZKp) / Web 3 <br> 💬 Ask me about anything<br>
+🔭 I’m  working on POCx(ZKp) / BlockChain <br> 💬 Ask me about anything<br>
 
 
 ## 🌐 Socials:
